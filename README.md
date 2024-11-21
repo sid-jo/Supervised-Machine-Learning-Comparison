@@ -1,7 +1,7 @@
 # Empirical Comparison of Supervised Classification Models
 
 ## Overview
-This project presents a comprehensive comparative analysis of four popular supervised binary classification algorithms--Logistic Regression, Perceptron Classifier, K-Nearest Neighbors (KNN), and Support Vector Machines (SVM). Using four diverse datasets, the performance of these classifiers was evaluated to provide insights into their strengths, limitations, and applicability in real-world scenarios.
+This project presents a comprehensive comparative analysis of four popular supervised binary classification algorithms--Logistic Regression, Perceptron Classifier, k-Nearest Neighbors (kNN), and Support Vector Machines (SVM). Using four diverse datasets, the performance of these classifiers was evaluated to provide insights into their strengths, limitations, and applicability in real-world scenarios.
 
 ## Key Contributions
 **Algorithm Analysis:** Evaluated performance of four classificer across diverse datasets with varying sizes, feature complexities, and class distributions.
