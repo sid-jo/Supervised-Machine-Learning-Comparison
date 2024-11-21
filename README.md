@@ -20,7 +20,7 @@ This project presents a comprehensive comparative analysis of four popular super
 **Machine Learning Frameworks:** Python, Sci-Kit Learn
 
 ## Objectives
-1. Exploration of the practical performance of logistic regression, perceptron, kNN, and SVM on binary classification tasks
+1. Exploration of the practical performance of logistic regression, perceptron, kNN, and SVM on classification tasks
 2. Analze the influence of dataset characteristics on algorithmic performance
 4. Provide an empirical foundation for model selection in real-world applications
 
